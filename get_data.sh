@@ -1,0 +1,1 @@
+../../.config/pianobar/get_data.sh
